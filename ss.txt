@@ -1,0 +1,10 @@
+Cover page
+Table of contents
+Introductory section
+Methodology section
+Results section
+Discussion section
+Conclusion section
+References
+Acknowledgment
+Appendix
